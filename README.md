@@ -17,7 +17,7 @@ Avant de commencer, assurez-vous d'avoir installé les dépendances nécessaires
 
 Vous pouvez installer les bibliothèques nécessaires avec :
 
-# pip install tensorflow numpy matplotlib opencv-python
+### pip install tensorflow numpy matplotlib opencv-python
 
 
 
