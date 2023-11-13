@@ -1,10 +1,12 @@
 # reconnaissance-des-chiffres-manuscrits
 
-<img src='https://github.com/issaniang5/Reconnaissance-de-Chiffres-Manuscrits-AI/blob/main/Images/image3.png' height=800px width=800px></img>
-
 Un script qui entraîne un modèle pour reconnaître les chiffres manuscrits en utilisant le jeu de données MNIST. Ensuite, il charge des fichiers externes et utilise le réseau de neurones pour prédire de quels chiffres il s'agit.
 
-### 🛠️ Prérequis
+<img src='https://github.com/issaniang5/Reconnaissance-de-Chiffres-Manuscrits-AI/blob/main/Images/image3.png' height=800px width=800px></img>
+
+
+
+## 🛠️ Prérequis
 Avant de commencer, assurez-vous d'avoir installé les dépendances nécessaires :
 
 - Python 3.x
@@ -15,7 +17,7 @@ Avant de commencer, assurez-vous d'avoir installé les dépendances nécessaires
 
 Vous pouvez installer les bibliothèques nécessaires avec :
 
-#### pip install tensorflow numpy matplotlib opencv-python
+# pip install tensorflow numpy matplotlib opencv-python
 
 
 
